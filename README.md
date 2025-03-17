@@ -1,5 +1,5 @@
 Exercícios e Testes do Curso Profissão: Cientista de Dados da EBAC.
-objetivos:
+Objetivos:
     - Compreender a importância e a utilidade do Git e do GitHub;
     - Instalar o Git;
     - Aprender a criar e configurar uma conta no GitHub; 
